@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 💻 **GitHub Profile Summary Cards**
 
-![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbrRahman=blue_green)
+![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbrRahman&theme=blue_green)
 
-![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbrRahman=blue_green)
+![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbrRahman&theme=blue_green)
