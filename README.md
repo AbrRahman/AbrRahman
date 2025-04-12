@@ -24,4 +24,4 @@ open source projects.
 
 📈 **Current Stats**
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=AbrRahman&theme=blue_green)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AbrRahman&theme=blue_green)
