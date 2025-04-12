@@ -18,12 +18,21 @@
 
 <br/> <br/>
 
+👀 **Current overview**
+
+<p align="center">
+  <a href="https://githubtrends.io">
+    <img src="https://api.githubtrends.io/user/svg/AbrRahman/repos?time_range=six_months&loc_metric=changed&theme=dark" alt="GitHub Trends SVG">
+  </a>
+</p>
+
+<br/> <br/>
+
 💻 **GitHub Profile Summary Cards**
 
 ![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbrRahman&theme=blue_green)
 
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbrRahman&theme=blue_green)
-open source projects.
 
 <br/> <br/>
 
