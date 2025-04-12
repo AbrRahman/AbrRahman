@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/blue_green/3-stats.svg)
+💻 **GitHub Profile Summary Cards**
+
+![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbrRahman=blue_green)
+
+![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbrRahman=blue_green)
