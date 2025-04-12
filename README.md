@@ -8,12 +8,15 @@
 - ⚡ Fun fact: ...
 -->
 
+<br/> <br/>
+
 - 🔭 I’m currently working on **full-stack web applications** using MongoDB, Express.js, React, and Node.js — building scalable and high-performance apps.
 - 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m trying - To learn new ideas in web development.
 - 💬 Ask me about - my developing journey
 
+<br/> <br/>
 
 💻 **GitHub Profile Summary Cards**
 
@@ -21,6 +24,8 @@
 
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbrRahman&theme=blue_green)
 open source projects.
+
+<br/> <br/>
 
 📈 **Current Stats**
 
