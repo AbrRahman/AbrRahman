@@ -36,6 +36,15 @@
 
 <br/> <br/>
 
+💻 **Technologies that I know**
+
+<p align="center">
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,github,firebase,javascript,nodejs,expressjs,mongodb,react,redux,nextjs,vercel,netlify,postman,typescript,vscode&theme=dark&perline=7" alt="My Skills" /></a>
+</p>
+
+
+<br/> <br/>
+
 📈 **Current Stats**
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AbrRahman&theme=blue_green)
