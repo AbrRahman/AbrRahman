@@ -13,9 +13,7 @@
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m trying - To learn new ideas in web development.
 - 💬 Ask me about - my developing journey
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 💻 **GitHub Profile Summary Cards**
 
@@ -23,3 +21,7 @@
 
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbrRahman&theme=blue_green)
 open source projects.
+
+📈 **Current Stats**
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=AbrRahman&theme=blue_green)](https://git.io/streak-stats)
